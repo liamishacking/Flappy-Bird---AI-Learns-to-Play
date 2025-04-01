@@ -57,7 +57,7 @@ The HTML canvas visually renders the simulation:
 
 ## How to Run
 
-1.  Download the `[your_filename].html` file (e.g., `flappy_ml.html`).
+1.  Download the `flappy_ml.html` file
 2.  Open this HTML file directly in a modern web browser (such as Chrome, Firefox, Edge, Safari).
 3.  The simulation will start automatically.
 
